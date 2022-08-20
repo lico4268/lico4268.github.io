@@ -12,6 +12,7 @@ state: G
 zip_code: 11111
 country: Republic of Korea
 phone: 010-0000-0000
+remote-theme: forty-jekyll-theme
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
