@@ -3,7 +3,7 @@ title: lico4268
 subtitle: by HTML5 UP
 email: lico4268@---.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lico4268.github.io" # the base hostname & protocol for your site
 author: lico
 street_address: Ya
